@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rosangiri07
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python with ML
+- 🌱 I’m currently learning ML with python.
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 Reach me @ groshan97@gmail.com
 
