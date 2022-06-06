@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rosangiri07
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML with python.
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👀 I’m interested in Web Designing & Developing
+- 🌱 I’m currently learning python, php, java, mysql.
+- 💞️ I’m looking to collaborate on web designing & development projects
 - 📫 Reach me @ groshan97@gmail.com
 
 <!---
