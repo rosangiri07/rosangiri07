@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rosangiri07
-- 👀 I’m interested in Web Designing & Developing
-- 🌱 I’m currently learning python, php, java, mysql.
-- 💞️ I’m looking to collaborate on web designing & development projects
-- 📫 Reach me @ groshan97@gmail.com
+- 👀 I’m interested in Data Engineering.
+- 🌱 I’m currently learning python and mysql.
+- 💞️ I’m looking to collaborate on data engineering projects.
+- 📫 Reach me @ girirosan7@gmail.com
 
 <!---
 rosangiri07/rosangiri07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
